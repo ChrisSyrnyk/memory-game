@@ -9,3 +9,5 @@ Game instructions:
 (2): Memorize the placement of each number
 (3): Once the numbers have dissapeared click the pieces in the order displayed (1-9)
 (4): Select start game to play again and beat your high score
+
+--Christopher Syrnyk
